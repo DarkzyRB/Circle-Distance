@@ -1,15 +1,3 @@
-/*
- * @File: circle_distance.dart
- * @Project: CircleDistance
- * @Author: Paul Salcedo F.
- * @Date: Wednesday, 15th December 2021 09:41 pm
- * @Email:  paulsalcedo.dev@gmail.com
- * @Last modified by:   Paul Salcedo F.
- * @Last modified time: Wednesday, 15th December 2021 09:19 pm
- * @License: GNU
- * @Copyright: Copyright (c) 2021 Paul Salcedo F.
- */
-
 import 'dart:math';
 
 // -----------------------------------------------------------------------
