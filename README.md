@@ -2,7 +2,7 @@
 
 `Null safety compatible`
 
-Calculate the great-circle distance between two points (having Latitude,Longitude) on the surface of Earth 
+Calculate the great-circle distance between two points (having Latitude, Longitude) on the surface of Earth 
 You can get the distance using the Spherical law of cosines, Haversine formula or Vincenty`s formula  
 
 Included in this library:
